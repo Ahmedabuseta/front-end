@@ -1,0 +1,202 @@
+body{
+    background-color:#FFF3E3;
+    margin: 0;
+    height: 950;
+}
+.title1{
+    color:#653614 ;
+    text-align: center;
+    width:205px;
+    height: 32px;
+    margin: auto;
+}
+.line{
+    background-color: #EEDDC2;
+    width: 205px;
+    height: 4px;
+    margin: auto;
+}
+.title1:hover{
+background-color: #653614;
+color: #EEDDC2;
+}
+.div1{
+    background-color: #EEDDC2;
+    color: #CDC3AE;
+    text-align: center;
+    width:461.5;
+    height:508;
+    margin: 40PX 10 0 0;
+    float: left;
+    padding: 80;
+}
+.p1{
+    color: #86725a;
+    margin:15 auto;
+    width: 150;
+}
+.p1:hover{
+    background-color: #FFF3E3;
+}
+.p2{
+    color:#766556;
+    margin: auto;
+    margin-bottom: 30;
+    font-size: 15px;
+    width: 400;
+}
+h1{
+    color: #653614;
+    margin: auto;
+    font-size: 40;
+}
+h1:hover{
+    background-color: #633812;
+    color: #FFF3E3;
+}
+.photo{
+    width: 150;
+    height: 150;
+    border-radius:75px;
+}
+.photo:hover{
+    outline: 2px solid #653614;
+}
+.links{
+    margin: 0 0 55 0 ;
+}
+.social{
+    width: 24;
+    height: 24;
+    margin:0 0 0 20px;
+}
+.btn1{
+    width:621.5;
+    height: 108;
+    color: #FDF6DF;
+    background-color: #653614;
+    border: none;
+    font-size: 20px;
+    margin-left: -80px;
+}
+.btn1:hover{
+    background-color:#FDF6DF ;
+    color: #653614;
+    border: 5px solid #653614;
+}
+.line2{
+    background-color: white;
+    width: 621.5;
+    height: 25;
+    margin-left: -80px;
+}
+.div2{
+    width:621.5;
+    height:796;      
+    float: left;
+    margin: 40PX 0 0 0;
+    padding: 0 0 0 10px;
+    /* border:gray solid; */
+}
+.btn2{
+    background-color: #EEDDC2;
+    color: #653614;
+    width: 300px;
+    height:108px;
+    float: left;
+    border: none;
+    font-size: 28px;
+    padding: 15px;
+    margin: 0 10 80 0;
+}
+.btn2:hover{
+    background-color:#FDF6DF ;
+    color: #653614;
+    border: 5px solid #653614;
+}
+.btn3{
+    background-color: #EEDDC2;
+    color: #653614;
+    width: 300px;
+    height: 108px;
+    float: left;
+    border: none;
+    font-size: 28px;
+    padding: 15px;
+    margin: 0 0 80 10;
+}
+.btn3:hover{
+    background-color:#FDF6DF ;
+    color: #653614;
+    border: 5px solid #653614;
+}
+.cake1{
+    width: 295;
+    height: 235;
+    float: left;
+    margin: 0 10 80 0;
+}
+.cake1:hover{
+    outline: 2px solid #653614;
+}
+.cake2{
+    width: 295;
+    height: 235;
+    float: left;
+    margin: 0 0 80 10 ;
+}
+.cake2:hover{
+    outline: 2px solid #653614;
+}
+.div3{
+    height: 293px;
+    width: 216px;
+    padding: 0 40px;
+    margin-right: 10px;
+    background-color:#EEDDC2 ;
+    float: left;
+}
+.div3:hover{
+    border: 2px solid #653614;
+}
+.cake3{
+    height: 300px;
+    width: 296px;
+    margin-left: 10px; 
+    float: left;
+}
+.cake3:hover{
+    border: 2px solid #653614;
+}
+.p3{
+    font-size: 12px;
+    background-color: #ebdec1;
+    margin-bottom: 12px;
+    background-color: #FFF3E3;
+    width: 154;
+}
+.p3:hover{
+  background-color: #633812;
+  color: #FFF3E3;
+}
+.p4{
+    font-size: 15px;
+    color:#796a54;
+    margin-bottom: 15px;
+}
+.discount{
+    font-size: 28px;
+    color: #633812;
+}
+.discount:hover{
+    background-color: #633812;
+    color: #FFF3E3;
+  }
+p{
+    line-height: 25px;
+    letter-spacing: 2px;
+}
+h2{
+    line-height: 25px;
+    letter-spacing: 2px;
+}
